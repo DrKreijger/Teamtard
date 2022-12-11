@@ -1,6 +1,7 @@
 # Teamtard-V1.4
 TeamTard 300 mods
 
+INSTRUCTIONS:
 A ajouter dans Curse Forge:
 1) Aller dans settings
 2) Minecraft
