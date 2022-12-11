@@ -1,0 +1,8 @@
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#79A minecraft:lukewarm_ocean
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
