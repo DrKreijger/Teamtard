@@ -1,6 +1,4 @@
-# Teamtard-V1.4 INSTRUCTIONS
-
-INSTRUCTIONS:
+# Teamtard-V1.4 INSTRUCTIONS:
 
 Pour DL le pack, allez dans releases à droite de cette page
 
