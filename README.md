@@ -1,6 +1,6 @@
 # Teamtard-V1.4 INSTRUCTIONS:
 
-Pour DL le pack, allez dans releases à droite de cette page
+Pour DL le pack, allez dans releases à droite de cette page ou cliquez ici: https://github.com/DrKreijger/Teamtard-V1.4/releases
 
 Suivez les instructions d'installation dans releases et les instructions ci-dessous
 
