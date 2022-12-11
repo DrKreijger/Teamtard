@@ -4,6 +4,7 @@ TeamTard 300 mods
 INSTRUCTIONS:
 
 Pour DL le pack, allez dans releases à droite de cette page
+Suivez les instructions d'installation dans releases et les instructions ci-dessous
 
 A ajouter dans Curse Forge:
 1) Aller dans settings
