@@ -2,6 +2,9 @@
 TeamTard 300 mods
 
 INSTRUCTIONS:
+
+Pour DL le pack, allez dans releases à droite de cette page
+
 A ajouter dans Curse Forge:
 1) Aller dans settings
 2) Minecraft
