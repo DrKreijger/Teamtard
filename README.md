@@ -1,5 +1,4 @@
-# Teamtard-V1.4
-TeamTard 300 mods
+# Teamtard-V1.4 INSTRUCTIONS
 
 INSTRUCTIONS:
 
