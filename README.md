@@ -17,3 +17,6 @@ A ajouter dans Curse Forge:
 4) Copier/coller ceci:
 
 -XX:+UseConcMarkSweepGC -XX:ParallelGCThreads=4 -XX:+DisableExplicitGC -XX:+CMSIncrementalMode -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=35
+
+Pour plus de FPS, après avoir lancé le pack, fermez Overwolf dans votre barre des tâches, voir les icones cachés.
+Ca fermera Curse Forge également mais pas Minecraft.
