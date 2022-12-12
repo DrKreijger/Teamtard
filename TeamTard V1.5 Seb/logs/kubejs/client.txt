@@ -1,0 +1,4 @@
+[15:08:27] [INFO ] Loaded script client_scripts:hide.js in 0.041 s
+[15:08:27] [INFO ] Loaded script client_scripts:jei.js in 0.001 s
+[15:08:27] [INFO ] Loaded script client_scripts:tooltips.js in 0.002 s
+[15:08:27] [INFO ] Loaded 3/3 KubeJS client scripts in 0.073 s
