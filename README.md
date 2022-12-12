@@ -3,6 +3,11 @@
 Pour DL le pack, allez dans releases à droite de cette page ou cliquez ici: https://github.com/DrKreijger/Teamtard-V1.4/releases
 
 Suivez les instructions d'installation dans releases et les instructions ci-dessous
+Pour installer:
+1) Télécharger Curse Forge
+2) Create a custom profile
+3) Import:
+https://github.com/DrKreijger/Teamtard/blob/main/Teamtard%20V1.5.zip
 
 A ajouter dans Curse Forge:
 1) Aller dans settings
